@@ -90,6 +90,7 @@ chmod -R 775 *.x86_64
 I also upload the other DQN based algorithms which I tested with the games that I made. Check out [my DRL github repo](https://github.com/Kyushik/DRL) 
 
 This is my [PPT file](https://www.dropbox.com/s/3t4jruqtzgvi4gv/Kyushik_Final.pptx?dl=0) of `final presentation(Jeju Camp)`
+Presentation file is not exist or deleted !
 
 <br>
 
