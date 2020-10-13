@@ -49,7 +49,7 @@ I will use sensor data and camera image as inputs of DRL algorithm. DRL algorith
 * Windows10 (64bit)
 * Python 3.6.5
 * Anaconda 5.2.0
-* Tensorflow 1.8.0
+* Tensorflow 1.8.0 
 
 **Hardware**
 * CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHZ
